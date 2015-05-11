@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##---------DFU Programmer UI-------------
 ##
-##Cross Plataform Graphic User Interface for DFU Programmer(R)
+##Cross Platform Graphic User Interface for DFU Programmer(R)
 ##Developed and Mantained By Julio César Echeverri M.  email: <julio.marulanda@outlook.com>
 ##website blogdelingeniero1.wordpress.com
 ##Release date version 1.27 ---May 1 of 2015
